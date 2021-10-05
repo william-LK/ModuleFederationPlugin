@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("入口2"),console.log("我是a:",void console.log("i am newA")),console.log("我是b：",void console.log("i am componentB"))})();

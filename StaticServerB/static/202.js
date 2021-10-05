@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojectb=self.webpackChunkprojectb||[]).push([[202],{202:(e,c,o)=>{o.r(c),o.d(c,{default:()=>n});const n=function(){console.log("i am componentB")}}}]);

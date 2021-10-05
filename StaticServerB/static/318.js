@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojectb=self.webpackChunkprojectb||[]).push([[318],{318:(e,c,n)=>{n.r(c),n.d(c,{default:()=>o});const o=function(){console.log("i am newA")}}}]);
