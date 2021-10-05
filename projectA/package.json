@@ -4,13 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack serve --config ./webpack.config.js",
+    "start": "cross-env NODE_ENV=development webpack serve --config ./webpack.config.js",
     "build": "cross-env NODE_ENV=production webpack --config ./webpack.config.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@vue/compiler-sfc": "^3.2.19",
     "html-webpack-plugin": "^5.3.2",
+    "vue": "^3.2.19",
+    "vue-loader": "^16.2.0",
     "webpack": "^5.56.1",
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.3.1"
